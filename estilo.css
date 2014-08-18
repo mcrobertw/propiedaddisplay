@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div.caja{
+	margin:	50px auto;
+	border: 12px double tomato;
+	width: 700px;
+
+
+}
+p{
+	background: silver;
+	color: #444;
+	padding: 10px;
+	border: 2px rgba(0,0,0,.1) solid; 
+	/*display: inline;*/
+}
+
+p>a{
+	display: block;
+}
+
+/*p.uno{
+	display: none;
+}*/
