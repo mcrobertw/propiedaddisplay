@@ -1,0 +1,16 @@
+.peter>div{
+	display: inline-block;
+	width: 25%;
+	background: #F3F3A1;
+	margin: 0;
+}
+
+div.nowrap{
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+div.nowrap>div.white-space{
+	display: inline-block;
+	white-space: normal;
+}
